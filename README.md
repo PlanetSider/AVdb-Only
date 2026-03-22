@@ -90,6 +90,6 @@ https://t.me/leoavdb
 
 你可以送我一杯咖啡，以表示对这个项目的支持和喜爱🥰🥰🥰
 
-<img width="300" src="https://github.com/user-attachments/assets/1de9950c-5f6e-4b84-a01e-c8284c990f79" />
+https://www.paypal.me/3319999977
 
 
