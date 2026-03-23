@@ -85,13 +85,3 @@ https://t.me/leoavdb
 ## 免责声明
 
 本项目仅用于个人学习与技术研究，请遵守当地法律法规及相关站点服务条款。
-
-## 支持一下
-
-你可以请喝杯咖啡，以表示对这个项目的支持和喜爱🥰
-
-<a href="https://www.paypal.me/3319999977">
-  <img src="public/paypal.jpeg" alt="PayPal" width="500" style="max-width: 500px;">
-</a>
-
-
