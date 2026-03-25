@@ -1,4 +1,4 @@
-<p align="center">
+ip align="center">
   <a href="https://peifeng.li"><img width="184px" alt="logo" src="public/logo.svg" />
   </a>
 </p>
@@ -67,10 +67,10 @@ Avdb 是一个面向个人影视资源管理的全流程自动化系统，覆盖
 
 项目支持 PostgreSQL 与 SQLite 两种数据库。
 
-- 生产环境推荐 PostgreSQL（并发与维护能力更好）。
+- 推荐 PostgreSQL（并发与维护能力更好）。
 - 轻量部署或单机测试可直接使用 SQLite。
 
-配置文件为 `data/app.env`，当同时配置了 `DATABASE_URL` 与 `POSTGRES_*` 时，优先使用 `DATABASE_URL`。
+当同时配置了 `DATABASE_URL` 与 `POSTGRES_*` 时，优先使用 `DATABASE_URL`。
 
 ### PostgreSQL 示例
 
